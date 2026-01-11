@@ -5,10 +5,15 @@
 This project implements an end-to-end machine learning pipeline to predict the probability of online transaction fraud using classification algorithms. The pipeline covers comprehensive data preprocessing, feature engineering, class imbalance handling with SMOTE, model training with hyperparameter tuning, and final predictions on test data.
 
 **Name:** Muhamad Mario Rizki
+
 **Student-ID:** 1103223063
+
 **Class:** TK-46-02
+
 **Course:** Machine Learning - Final Term Individual Task
+
 **Task:** Hands-On End-to-End Models  
+
 **Objective:** Design and implement an end-to-end fraud detection system that predicts transaction fraud probability (isFraud)
 
 ---
