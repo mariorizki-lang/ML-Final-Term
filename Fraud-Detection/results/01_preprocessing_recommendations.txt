@@ -1,0 +1,14 @@
+PREPROCESSING RECOMMENDATIONS
+============================================================
+
+1. ✓ Apply SMOTE or SMOTEENN to handle severe class imbalance
+2. ✓ Drop 174 columns with >50% missing values
+3. ✓ Impute 200 columns with median (numeric) or mode (categorical)
+4. ✓ Encode 14 categorical columns using Label Encoding or One-Hot Encoding
+5. ✓ Scale 379 numeric features using StandardScaler or MinMaxScaler
+6. ✓ Handle outliers in columns with >5% outliers (consider capping or transformation)
+7. ✓ Apply feature selection to reduce dimensionality and improve performance
+
+Class Imbalance Ratio: 1:27.58
+Total Missing Columns: 374
+Duplicate Rows: 0

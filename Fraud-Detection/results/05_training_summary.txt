@@ -1,0 +1,42 @@
+
+MODEL TRAINING COMPLETED SUCCESSFULLY!
+
+Models Trained:
+1. ✓ LightGBM Baseline
+2. ✓ LightGBM Tuned (RandomizedSearchCV, n_iter=5, cv=3)
+3. ✓ XGBoost Baseline
+4. ✓ XGBoost Tuned (RandomizedSearchCV, n_iter=5, cv=3)
+
+Training Data:
+- Samples: 911,804
+- Features: 163
+- Balanced: 1:1 ratio (SMOTE applied)
+
+Validation Data:
+- Samples: 118,108
+- Features: 163
+- Imbalanced: Original distribution
+
+Best Model: XGBoost Tuned
+- Precision: 0.6631
+- Recall: 0.5577
+- F1-Score: 0.6059
+- AUC-ROC: 0.9297
+
+Models Saved:
+- lgb_baseline.pkl
+- lgb_tuned.pkl
+- xgb_baseline.pkl
+- xgb_tuned.pkl
+
+Results Saved:
+- model_comparison.csv
+- best_model_info.pkl
+- Individual model results (pkl files)
+
+Memory Management:
+- Used memory-efficient strategies
+- Incremental saving after each model
+- Regular garbage collection
+
+Next Step: Proceed to Notebook 6 for Test Predictions & Submission

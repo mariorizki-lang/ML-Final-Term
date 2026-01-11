@@ -1,0 +1,6 @@
+Column,Outlier_Count,Outlier_Percentage,Lower_Bound,Upper_Bound
+TransactionID,0,0.0,2691730.5,3872808.5
+TransactionDT,0,0.0,-9302285.625,23575963.375
+TransactionAmt,66482,11.257831814949029,-79.1975,247.51850000000002
+card1,0,0.0,-6228.5,26431.5
+card2,0,0.0,-233.0,959.0
