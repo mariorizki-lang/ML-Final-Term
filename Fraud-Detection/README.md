@@ -36,7 +36,7 @@ Online transaction fraud is a critical challenge in e-commerce and financial sys
 
 ### Data Characteristics
 - **Training Set:** 590,540 transactions × 219 features
-- **Test Set:** [Your test set size] transactions × 218 features
+- **Test Set:** 506,691 transactions × 163 features
 - **Target Variable:** isFraud (0 = Non-Fraud, 1 = Fraud)
 - **Class Imbalance:** 1:27.58 (569,877 non-fraud vs 20,663 fraud)
 
