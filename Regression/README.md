@@ -53,7 +53,7 @@ The notebook is organized into sequential cells:
 8. **Cell 8:** Results comparison and visualization
 
 ### Running the Notebook
-1. Upload the dataset `midterm-regresi-dataset.csv` to Google Colab
+1. Upload the dataset [midterm-regresi-dataset.csv](https://drive.google.com/file/d/1f8eaAZY-7YgFxLcrL3OkvSRa3onNNLb9/view?usp=sharing) to Google Colab
 2. Mount Google Drive when prompted
 3. Run cells sequentially from top to bottom
 4. Review visualizations and metrics in each section
@@ -61,7 +61,7 @@ The notebook is organized into sequential cells:
 
 ### Key Files
 - `Regression-ML-Final-Term.ipynb` - Main notebook containing all analysis
-- `midterm-regresi-dataset.csv` - Dataset (not included, must be uploaded)
+- `midterm-regresi-dataset.csv` - Dataset 
 
 ## Your Identification
 **Name:** Muhamad Mario Rizki  
